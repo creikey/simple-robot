@@ -1,1 +1,2 @@
 pyfrc==2019.0.1
+robotpy-ctre==2019.1.0
